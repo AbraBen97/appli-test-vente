@@ -5,7 +5,7 @@ INFO_BOUTIQUE = {
     "whatsapp": "2250758025735"
 }
 
-CATEGORIES = ["Tous", "pantalon", "jupe", "haut", "complet", "robe"]
+CATEGORIES = ["Tous", "pantalon", "jupe", "haut", "complet", "robe",'sac']
 
 
 
